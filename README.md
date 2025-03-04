@@ -1,2 +1,2 @@
 # WebProgramming
-[CV](https://sxdivm.github.io/Markdown/cv.md)
+[CV](https://sxdivm.github.io/Markdown/cv)
