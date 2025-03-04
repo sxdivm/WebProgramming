@@ -2,7 +2,7 @@
 # **CV**
 
 * [Personal information](#personalinformation)  
-* [Code example](#code)  
+* [Code example](#codeexample)  
 * [Contact information](#contacts)
 
 ## Personal information
@@ -48,3 +48,6 @@ static void Main(string[] args)
         }
     }
 }
+```
+## Contacts
+Phone Telegram VK Gmail
