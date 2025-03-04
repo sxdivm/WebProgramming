@@ -1,19 +1,19 @@
 # **Shumeiko Gleb**
 # **CV**
 
-* [Personal information](#personalinformation)  
-* [Code example](#codeexample)  
-* [Contact information](#contacts)
+* Personal information  
+* Code example  
+* Contact information
 
-## Personal information
-## About me
+## Personal Information
+### About me
 Student of the Belarusian-Russian University of Engineering and Economics Faculty.  
 Group: PIR-231  
 Goals and priorities: Wishing to complete higher education and learn new things in the IT field to realize my strengths and acquire a decent job.  
 Skills: Beginner programming skills in C#, lacking job experience.  
 English language level: up to B2.
 
-## Code example
+## Code Example
 ```
 static void Main(string[] args)
 {
