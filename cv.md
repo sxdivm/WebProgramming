@@ -6,6 +6,7 @@
 * Contact information
 
 ## Personal Information
+### Site Screenshot
 ![Photo](photo.png)
 ### About me
 Student of the Belarusian-Russian University of Engineering and Economics Faculty.  
